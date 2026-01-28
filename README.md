@@ -5,3 +5,4 @@ This is a NextJS starter in Firebase Studio.
 To get started, take a look at src/app/page.tsx.
 
 FInd the solution of Lab9 CI trigger
+Lab 9 CI/CD enabled
